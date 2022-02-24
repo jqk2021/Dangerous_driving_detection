@@ -1,0 +1,10 @@
+
+
+train: D:\Dangerous driving detection\VOCData\train.txt  # 16551 images
+val: D:\Dangerous driving detection\VOCData\val.txt  # 4952 images
+
+# number of classes
+nc: 4
+
+# class names
+names: ['face', 'smoke', 'drink', 'phone']
