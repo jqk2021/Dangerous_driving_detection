@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>phone1</folder>
+<filename>ph725.jpg</filename>
+<path>D:\BaiduNetdiskDownload\抽烟打电话数据集\train\phone1\ph725.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>500</width>
+    <height>863</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>215</xmin>
+        <ymin>73</ymin>
+        <xmax>265</xmax>
+        <ymax>138</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>phone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>277</xmin>
+        <ymin>141</ymin>
+        <xmax>327</xmax>
+        <ymax>191</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>phone1</folder>
+<filename>ph522.jpg</filename>
+<path>D:\BaiduNetdiskDownload\抽烟打电话数据集\train\phone1\ph522.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>280</width>
+    <height>186</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>phone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>114</xmin>
+        <ymin>39</ymin>
+        <xmax>154</xmax>
+        <ymax>93</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>phone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>239</xmin>
+        <ymin>65</ymin>
+        <xmax>276</xmax>
+        <ymax>98</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>phone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2</xmin>
+        <ymin>93</ymin>
+        <xmax>32</xmax>
+        <ymax>145</ymax>
+    </bndbox>
+</object>
+</annotation>

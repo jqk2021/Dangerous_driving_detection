@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>phone1</folder>
+<filename>ph723.jpg</filename>
+<path>D:\BaiduNetdiskDownload\抽烟打电话数据集\train\phone1\ph723.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>500</width>
+    <height>334</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>phone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>314</xmin>
+        <ymin>188</ymin>
+        <xmax>342</xmax>
+        <ymax>249</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>171</xmin>
+        <ymin>91</ymin>
+        <xmax>214</xmax>
+        <ymax>144</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>279</xmin>
+        <ymin>49</ymin>
+        <xmax>326</xmax>
+        <ymax>107</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>315</xmin>
+        <ymin>140</ymin>
+        <xmax>350</xmax>
+        <ymax>183</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>248</xmin>
+        <ymin>164</ymin>
+        <xmax>292</xmax>
+        <ymax>218</ymax>
+    </bndbox>
+</object>
+</annotation>

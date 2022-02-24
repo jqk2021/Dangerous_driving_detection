@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>phone1</folder>
+<filename>ph682.jpg</filename>
+<path>D:\BaiduNetdiskDownload\抽烟打电话数据集\train\phone1\ph682.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>534</width>
+    <height>300</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>353</xmin>
+        <ymin>216</ymin>
+        <xmax>377</xmax>
+        <ymax>246</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>381</xmin>
+        <ymin>136</ymin>
+        <xmax>399</xmax>
+        <ymax>162</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>284</xmin>
+        <ymin>148</ymin>
+        <xmax>301</xmax>
+        <ymax>172</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>263</xmin>
+        <ymin>156</ymin>
+        <xmax>282</xmax>
+        <ymax>178</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>195</xmin>
+        <ymin>158</ymin>
+        <xmax>217</xmax>
+        <ymax>196</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>211</xmin>
+        <ymin>182</ymin>
+        <xmax>227</xmax>
+        <ymax>207</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>101</xmin>
+        <ymin>141</ymin>
+        <xmax>125</xmax>
+        <ymax>175</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>331</xmin>
+        <ymin>132</ymin>
+        <xmax>343</xmax>
+        <ymax>156</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>295</xmin>
+        <ymin>126</ymin>
+        <xmax>310</xmax>
+        <ymax>146</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>phone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>243</xmin>
+        <ymin>232</ymin>
+        <xmax>263</xmax>
+        <ymax>254</ymax>
+    </bndbox>
+</object>
+</annotation>

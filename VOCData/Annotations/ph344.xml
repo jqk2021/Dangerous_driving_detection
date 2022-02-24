@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>phone1</folder>
+<filename>ph344.jpg</filename>
+<path>D:\BaiduNetdiskDownload\抽烟打电话数据集\train\phone1\ph344.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>408</width>
+    <height>612</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>phone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>248</xmin>
+        <ymin>235</ymin>
+        <xmax>326</xmax>
+        <ymax>410</ymax>
+    </bndbox>
+</object>
+</annotation>
